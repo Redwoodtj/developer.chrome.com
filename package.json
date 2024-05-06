@@ -67,7 +67,7 @@
     "google-auth-library": "^8.5.2",
     "gorko": "^0.2.1",
     "gulp": "^4.0.2",
-    "gulp-imagemin": "^7.1.0",
+    "gulp-imagemin": "^9.1.0",
     "html-minifier": "^4.0.0",
     "iso-639-1": "^2.1.4",
     "js-cookie": "^2.2.1",
